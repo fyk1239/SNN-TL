@@ -1,5 +1,6 @@
-# Effective Transfer Learning Algorithm in Spiking Neural Networks.
+# Transfer Learning Algorithm in Spiking Neural Networks.
 Python implementation of transfer learning on SNNs with the centered kernel alignment (CKA). 
+Now try to get some improvement
 
 ## Requirement
 - Python 3.7
